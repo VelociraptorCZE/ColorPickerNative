@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<!--
+    ColorPickerNative
+    Copyright (C) Simon Raichl 2018
+    MIT License
+ -->
+<svg width="128" height="128" version="1.1" viewBox="0 0 33.867 33.867" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(0 -263.13)">
+  <circle cx="16.914" cy="280.18" r="16.914" fill="#0096d7" style="paint-order:stroke fill markers"/>
+  <path d="m25.902 269.62a2.936 2.936 0 0 0-4.1377 0.34813 2.936 2.936 0 0 0-0.05748 0.0733l-4.35e-4 -3.7e-4 -5.3048 6.2794 4.4946 3.797 5.3048-6.2794-0.01439-0.0122a2.936 2.936 0 0 0 0.06352-0.0682 2.936 2.936 0 0 0-0.34813-4.1377zm-11.708 5.4139-1.4514 1.7181 8.1873 6.9165 1.4514-1.7181z" fill="#003ad7" style="paint-order:stroke fill markers"/>
+  <path d="m15.88 279.92-8.02 9.4935 0.020938 0.0177a1.2742 1.1502 40.191 0 0-0.12125 0.11963 1.2742 1.1502 40.191 0 0 0.23105 1.7009 1.2742 1.1502 40.191 0 0 1.7156-0.0564 1.2742 1.1502 40.191 0 0 0.09812-0.13916l0.01004 8e-3 8.02-9.4935z" fill="#fff" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>

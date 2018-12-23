@@ -1,0 +1,33 @@
+/**
+    ColorPickerNative
+    Copyright (C) Simon Raichl 2018
+    MIT License
+*/
+
+body {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    height: 97vh;
+    overflow: hidden;
+    font: 2.1rem Segoe UI, sans-serif;
+    color: #fff;
+    background: #000;
+}
+
+h1 {
+    text-shadow: 2px 2px 4px #000;
+    opacity: .7;
+    font-size: 2.2rem;
+    padding: 20px;
+}
+
+div {
+    width: 100%;
+}
+
+.none {
+    display: none;
+}
